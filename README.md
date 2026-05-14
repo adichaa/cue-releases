@@ -1,6 +1,6 @@
 # Cue Releases
 
-Auto-update feed for [Cue](https://github.com/adichaa/cue).
+Auto-update feed for [Cue](https://github.com/adichaa/cue-oss).
 
 ## Installing
 
@@ -13,3 +13,7 @@ Cue checks for updates automatically via [Sparkle](https://sparkle-project.org).
 ```
 https://adichaa.github.io/cue-releases/appcast.xml
 ```
+
+## Source
+
+The open-source core is at [adichaa/cue-oss](https://github.com/adichaa/cue-oss).
