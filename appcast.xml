@@ -7,10 +7,11 @@
     <item>
       <title>Cue v0.1.0</title>
       <pubDate>Thu, 14 May 2026 02:06:55 +0100</pubDate>
-      <enclosure url="https://github.com/adichaa/cue-releases/releases/download/v0.1.0/Cue-0.1.0.dmg"
+      <enclosure url="https://github.com/adichaa/cue-releases/releases/download/v0.1.0/Cue.dmg"
                  sparkle:version="0.1.0"
                  sparkle:shortVersionString="0.1.0"
-                 length="3837621" sparkle:edSignature="sparkle:edSignature="R8QrASQ1epqh8cbX19FGh2EH+2oE8cnF3112037vGPFD3o2B5lXoxtzWxirM27G8KGU+pcr0HyX/PhohV4i8Cg==" length="3837621""
+                 length="3837621"
+                 sparkle:edSignature="R8QrASQ1epqh8cbX19FGh2EH+2oE8cnF3112037vGPFD3o2B5lXoxtzWxirM27G8KGU+pcr0HyX/PhohV4i8Cg=="
                  type="application/octet-stream"/>
     </item>
   </channel>
