@@ -4,15 +4,5 @@
     <title>Cue</title>
     <link>https://adichaa.github.io/cue-releases/appcast.xml</link>
     <language>en</language>
-    <item>
-      <title>Cue v0.1.0</title>
-      <pubDate>Thu, 14 May 2026 02:06:55 +0100</pubDate>
-      <enclosure url="https://github.com/adichaa/cue-releases/releases/download/v0.1.0/Cue.dmg"
-                 sparkle:version="0.1.0"
-                 sparkle:shortVersionString="0.1.0"
-                 length="4906176"
-                 sparkle:edSignature="eQateqgW//mIamwfOkQKig0Z1l/wTx3t7d/OgJscFt5bkHFbxqk015XHDjHx7Oo9nLIW3rLKHr5fC970hRIGCw=="
-                 type="application/octet-stream"/>
-    </item>
   </channel>
 </rss>
