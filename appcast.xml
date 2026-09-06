@@ -10,7 +10,7 @@
       <enclosure url="https://github.com/adichaa/cue-releases/releases/download/v1.0.0/Cue.dmg"
                  sparkle:version="208"
                  sparkle:shortVersionString="1.0.0"
-                 length="87602001" sparkle:edSignature="1/ca49Ffu695I1emZtzHJ0cJtyiDJa+gM6uqz6ivf4DAY4stHoj+NmNmxGMAve9gXv3jA+dCG3WGzIOKHoaCCA==" length="87602001"
+                 length="87602001" sparkle:edSignature="1/ca49Ffu695I1emZtzHJ0cJtyiDJa+gM6uqz6ivf4DAY4stHoj+NmNmxGMAve9gXv3jA+dCG3WGzIOKHoaCCA=="
                  type="application/octet-stream"/>
     </item>
   </channel>
