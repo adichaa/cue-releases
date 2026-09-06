@@ -6,11 +6,11 @@
     <language>en</language>
     <item>
       <title>Cue v1.0.0</title>
-      <pubDate>Sun, 06 Sep 2026 03:37:28 +0100</pubDate>
+      <pubDate>Sun, 06 Sep 2026 20:49:37 +0100</pubDate>
       <enclosure url="https://github.com/adichaa/cue-releases/releases/download/v1.0.0/Cue.dmg"
-                 sparkle:version="208"
+                 sparkle:version="213"
                  sparkle:shortVersionString="1.0.0"
-                 length="87602001" sparkle:edSignature="1/ca49Ffu695I1emZtzHJ0cJtyiDJa+gM6uqz6ivf4DAY4stHoj+NmNmxGMAve9gXv3jA+dCG3WGzIOKHoaCCA=="
+                 length="87600632" sparkle:edSignature="OIAaMaOu4uVtT1U6T7fiJhbvviAhIBLo4aAVbMU5y8oJiQ4QLBkbOCqp95IUkiS2/zbFUiawdszRVwHlweXqBQ=="
                  type="application/octet-stream"/>
     </item>
   </channel>
